@@ -1,0 +1,14 @@
+Hardware used for the test:
+
+vCPU - 2 
+Memory - 4GB
+Physical disk - 64GB(NVMe)
+
+
+HammerDB
+
+Warhouse 20 - 10 per core of CPU 
+Virtual Users - 2 
+Duration - 20 min
+Rampup - 5 min
+
